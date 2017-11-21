@@ -23,7 +23,7 @@ h2 {
   color: white;
 }
 
-h3 {
+h3, p {
 	font-family: Verdana;
 	font-size: 21px;
 	color: gray;
@@ -31,5 +31,4 @@ h3 {
 
 p {
 	text-align: right;
-	color: gray;
 }
